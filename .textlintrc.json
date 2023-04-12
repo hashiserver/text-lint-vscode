@@ -1,0 +1,9 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "preset-ja-technical-writing": true,
+    "textlint-rule-preset-ja-spacing": true,
+    "textlint-rule-spellcheck-tech-word": true
+  }
+}
