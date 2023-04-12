@@ -27,3 +27,6 @@ vscodeに文章を貼りつけるだけで日本語の校生を行えるよう�
 - https://github.com/textlint-ja/textlint-rule-preset-ja-technical-writing
 - https://github.com/azu/textlint-rule-spellcheck-tech-word
 
+
+## 動作確認
+https://user-images.githubusercontent.com/24665964/231391494-96b08e8a-73e4-4452-830c-821c4dea5424.mov
